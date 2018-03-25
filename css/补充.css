@@ -1,0 +1,18 @@
+.fix{
+	position: fixed;
+}
+.f40{
+	color: #f40!important;
+}
+.hidden{
+	display: none;
+}
+.show{
+	display: block;
+}
+.baise{
+	color: #fff!important;
+}
+.shichang-nav li a:hover{
+	text-decoration: underline;
+}
